@@ -12,7 +12,6 @@
 		1584F5FA1DE80CD1006A93C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1584F5F81DE80CD1006A93C3 /* Main.storyboard */; };
 		1584F5FC1DE80CD1006A93C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1584F5FB1DE80CD1006A93C3 /* Assets.xcassets */; };
 		1584F5FF1DE80CD1006A93C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1584F5FD1DE80CD1006A93C3 /* LaunchScreen.storyboard */; };
-		15E1C5A61DE8454100E3F9B5 /* photoArray.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15E1C5A51DE8454100E3F9B5 /* photoArray.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		1584F5FB1DE80CD1006A93C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1584F5FE1DE80CD1006A93C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1584F6001DE80CD1006A93C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		15E1C5A51DE8454100E3F9B5 /* photoArray.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = photoArray.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 			children = (
 				1584F5F41DE80CD1006A93C3 /* AppDelegate.swift */,
 				1584F5F61DE80CD1006A93C3 /* ViewController.swift */,
-				15E1C5A51DE8454100E3F9B5 /* photoArray.txt */,
 				1584F5F81DE80CD1006A93C3 /* Main.storyboard */,
 				1584F5FB1DE80CD1006A93C3 /* Assets.xcassets */,
 				1584F5FD1DE80CD1006A93C3 /* LaunchScreen.storyboard */,
@@ -128,7 +125,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1584F5FF1DE80CD1006A93C3 /* LaunchScreen.storyboard in Resources */,
-				15E1C5A61DE8454100E3F9B5 /* photoArray.txt in Resources */,
 				1584F5FC1DE80CD1006A93C3 /* Assets.xcassets in Resources */,
 				1584F5FA1DE80CD1006A93C3 /* Main.storyboard in Resources */,
 			);
